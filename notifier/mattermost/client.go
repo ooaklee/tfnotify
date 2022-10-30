@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/ashwanthkumar/slack-go-webhook"
-	"github.com/mercari/tfnotify/terraform"
+	"github.com/ooaklee/tfnotify/terraform"
 )
 
 // EnvWebhook is Mattermost webhook

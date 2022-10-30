@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/mercari/tfnotify/terraform"
+	"github.com/ooaklee/tfnotify/terraform"
 )
 
 func TestNotifyNotify(t *testing.T) {

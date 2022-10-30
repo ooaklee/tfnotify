@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/lestrrat-go/slack"
-	"github.com/mercari/tfnotify/terraform"
+	"github.com/ooaklee/tfnotify/terraform"
 )
 
 // EnvToken is Slack API Token

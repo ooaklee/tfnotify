@@ -1,7 +1,7 @@
 package gitlab
 
 import (
-	"github.com/mercari/tfnotify/terraform"
+	"github.com/ooaklee/tfnotify/terraform"
 	gitlab "github.com/xanzy/go-gitlab"
 )
 

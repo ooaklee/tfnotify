@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/ashwanthkumar/slack-go-webhook"
-	"github.com/mercari/tfnotify/terraform"
+	"github.com/ooaklee/tfnotify/terraform"
 )
 
 func TestNotify(t *testing.T) {
