@@ -1,4 +1,4 @@
-module github.com/mercari/tfnotify
+module github.com/ooaklee/tfnotify
 
 go 1.12
 

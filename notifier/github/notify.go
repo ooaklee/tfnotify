@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"unicode/utf8"
 
-	"github.com/mercari/tfnotify/terraform"
+	"github.com/ooaklee/tfnotify/terraform"
 )
 
 // NotifyService handles communication with the notification related

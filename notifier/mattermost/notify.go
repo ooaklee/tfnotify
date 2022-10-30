@@ -4,7 +4,7 @@ import (
 	"errors"
 
 	"github.com/ashwanthkumar/slack-go-webhook"
-	"github.com/mercari/tfnotify/terraform"
+	"github.com/ooaklee/tfnotify/terraform"
 )
 
 // NotifyService handles communication with the notification related
