@@ -13,6 +13,7 @@ require (
 	github.com/nulab/go-typetalk v2.1.1+incompatible
 	github.com/parnurzeal/gorequest v0.2.16 // indirect
 	github.com/smartystreets/goconvey v1.7.2 // indirect
+	github.com/stretchr/testify v1.4.0
 	github.com/urfave/cli v1.22.2
 	github.com/xanzy/go-gitlab v0.22.3
 	golang.org/x/net v0.0.0-20200114155413-6afb5195e5aa // indirect
